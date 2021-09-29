@@ -7,6 +7,7 @@ _Proč je dílo takto nazváno?_
 Drama, epika, tragédie. Vychází to z textu.
 
 #### První vydání (rok):
+1937
 
 #### Období vzniku:
 _Jak se podepsala doba vzniku na daném díle? K jakému literárnímu směru/skupině/období dílo zařazujeme? Co je pro toto období typické? Jací autoři v tomto období tvořili? Jaká díla jsou pro tvorbu v tomto období stěžejní? → Charakterizujte dané literární období._
