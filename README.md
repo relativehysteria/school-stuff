@@ -47,12 +47,12 @@ Obecně se děj odehrává v městě.
 #### Jazyková stránka:
 Velká spousta pomlk (_"– – – Nemohl."_), dramatická stránka poměrně dost popisná (oproti některým benevolentnějším dramatikům, např. v porovnání s Moliérem). Postavy jsou osobností rozlišovány i mluvou: Galén má koktavou až katatonickou mluvu (_"Poslyšte, ne... Prosím vás, to ne...  Podívejte se, já... já opravdu mohu jen chudé... Chudí nemohou nic dělat, ale ti druzí, ti mohou spíš – "_).
 
-Vyskytují se i básnické prvky: 
-" 
-Ano. Ve jménu národa – 
-– jehož děti padnou v boji – 
-– a dobudou vítězství. Ve jménu národa – 
-– jehož otcové a matky zajdou malomocenstvím – 
+Vyskytují se i básnické prvky:  
+"  
+Ano. Ve jménu národa –  
+– jehož děti padnou v boji –  
+– a dobudou vítězství. Ve jménu národa –  
+– jehož otcové a matky zajdou malomocenstvím –  
 "
 
 #### Vlastní komentář:
