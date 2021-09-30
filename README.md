@@ -37,12 +37,12 @@ Obecně se děj odehrává v městě.
 
 #### Postavy:
 
- * Dvorní rada Sigelius (_"To je známo, prosím, ale – –  pan dvorní rada by snad nerad odmítl toho nebo onoho pacienta, na kterém mu záleží –"_): Záleží mu především na statusu, slávě a na penězích. Galénova myšlenka míru a jeho chování se mu hnusí.
- * Dr. Galén (_"Ano, vidíte – Člověk nemůže od lidí nic žádat. Co dělat, co dělat... Nu tak sbohem, pane; je mi líto –"_): Fungoval ve válce jako zástupní lékař. Nesnáší válku a odmítá léčit ty, kteří nevyužívají své schopnosti ji zastavit.
- * Syn, dcera a matka: Berou nemoc velmi vážně a Galén se jim neprotiví. Přes její podporu má dcera strach o svého otce.
- * První asistent (potřásá sám sobě rukou; _"Gratuluju!... Gratuluju ti, milý hochu! Gratuluju, pane doktore! Máme vyhráno!"_): Jeden ze dvou asistentů v nemocnici. Osobností zrcadlí dvorního radu. Vytváří vlastní falešný lék.
- * Baron Krüg (_"Můžete jít. Chválabohu před pěti minutami... se baron Krüg zastřelil."_): Maršálův dobrý přítel a pomocník v minulém vojenském puči. Jeho osobnost zrcadlí tu maršálovu, avšak není kolem války tak fanatický a ze smrti má strach. Když mu dojde, že kvůli válce zahodil svou šanci na život, zastřelí se.
- * Maršál (_"Vím. Budete tedy léčit barona Krüga – bez jakékoliv podmínky, doktore Galéne."_): Panovačný a tvrdohlavý, těžko schopný empatie, manický. Chybu si uvědomuje až na samém konci.
+ * __Dvorní rada Sigelius__ (_"To je známo, prosím, ale – –  pan dvorní rada by snad nerad odmítl toho nebo onoho pacienta, na kterém mu záleží –"_): Záleží mu především na statusu, slávě a na penězích. Galénova myšlenka míru a jeho chování se mu hnusí.
+ * __Dr. Galén__ (_"Ano, vidíte – Člověk nemůže od lidí nic žádat. Co dělat, co dělat... Nu tak sbohem, pane; je mi líto –"_): Fungoval ve válce jako zástupní lékař. Nesnáší válku a odmítá léčit ty, kteří nevyužívají své schopnosti ji zastavit.
+ * __Syn, dcera a matka__: Berou nemoc velmi vážně a Galén se jim neprotiví. Přes její podporu má dcera strach o svého otce.
+ * __První asistent__ (potřásá sám sobě rukou; _"Gratuluju!... Gratuluju ti, milý hochu! Gratuluju, pane doktore! Máme vyhráno!"_): Jeden ze dvou asistentů v nemocnici. Osobností zrcadlí dvorního radu. Vytváří vlastní falešný lék.
+ * __Baron Krüg__ (_"Můžete jít. Chválabohu před pěti minutami... se baron Krüg zastřelil."_): Maršálův dobrý přítel a pomocník v minulém vojenském puči. Jeho osobnost zrcadlí tu maršálovu, avšak není kolem války tak fanatický a ze smrti má strach. Když mu dojde, že kvůli válce zahodil svou šanci na život, zastřelí se.
+ * __Maršál__ (_"Vím. Budete tedy léčit barona Krüga – bez jakékoliv podmínky, doktore Galéne."_): Panovačný a tvrdohlavý, těžko schopný empatie, manický. Chybu si uvědomuje až na samém konci.
 
 #### Jazyková stránka:
 Velká spousta pomlk (_"– – – Nemohl."_), dramatická stránka poměrně dost popisná (oproti některým benevolentnějším dramatikům, např. v porovnání Moliérem). Postavy jsou osobností rozlišovány i mluvou: Galén má koktavou až katatonickou mluvu (_"Poslyšte, ne... Prosím vás, to ne...  Podívejte se, já... já opravdu mohu jen chudé... Chudí nemohou nic dělat, ale ti druzí, ti mohou spíš – "_).
