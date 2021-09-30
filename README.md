@@ -45,7 +45,7 @@ Obecně se děj odehrává v městě.
  * __Maršál__ (_"Vím. Budete tedy léčit barona Krüga – bez jakékoliv podmínky, doktore Galéne."_): Panovačný a tvrdohlavý, těžko schopný empatie, manický. Chybu si uvědomuje až na samém konci.
 
 #### Jazyková stránka:
-Velká spousta pomlk (_"– – – Nemohl."_), dramatická stránka poměrně dost popisná (oproti některým benevolentnějším dramatikům, např. v porovnání Moliérem). Postavy jsou osobností rozlišovány i mluvou: Galén má koktavou až katatonickou mluvu (_"Poslyšte, ne... Prosím vás, to ne...  Podívejte se, já... já opravdu mohu jen chudé... Chudí nemohou nic dělat, ale ti druzí, ti mohou spíš – "_).
+Velká spousta pomlk (_"– – – Nemohl."_), dramatická stránka poměrně dost popisná (oproti některým benevolentnějším dramatikům, např. v porovnání s Moliérem). Postavy jsou osobností rozlišovány i mluvou: Galén má koktavou až katatonickou mluvu (_"Poslyšte, ne... Prosím vás, to ne...  Podívejte se, já... já opravdu mohu jen chudé... Chudí nemohou nic dělat, ale ti druzí, ti mohou spíš – "_).
 
 Vyskytují se i básnické prvky: 
 " 
