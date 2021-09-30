@@ -49,11 +49,12 @@ Velká spousta pomlk (_"– – – Nemohl."_), dramatická stránka poměrně d
 
 Vyskytují se i básnické prvky:  
 "  
-Ano. Ve jménu národa –  
+Ve jménu národa –  
 – jehož děti padnou v boji –  
 – a dobudou vítězství. Ve jménu národa –  
 – jehož otcové a matky zajdou malomocenstvím –  
-"
+"  
+_(Vyskytuje se anafora a atypické, schématicky 21 slabikové čtyřverší)_
 
 #### Vlastní komentář:
 Celé dílo může být obecná alegorie na přicházející druhou světovou válku:
