@@ -22,6 +22,7 @@
 * Harpagon
 * Kleant
 * Eliška
+* Valér
 * Mariana
 * Anselm
 * Frosina
@@ -182,7 +183,7 @@
 
 ## Ginsberg
 ### Kvílení
-* Všichni (obyvatelé New Yorku)
+* Všichni (obyvatelé USA)
 
 #### Literární kontext
 * Kerouac (Na cestě)
