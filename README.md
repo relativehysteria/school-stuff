@@ -19,10 +19,10 @@
 
 ## Moliére:
 ### Lakomec
-__Žánr__:  Prozaická komedie
-__Forma__: Próza
-__Druh__:  Drama
-__Místo__: Paříž, u Harpagona doma
+__Žánr__:  Prozaická komedie  
+__Forma__: Próza  
+__Druh__:  Drama  
+__Místo__: Paříž, u Harpagona doma  
 __Postavy__:
 * Harpagon
 * Kleant
@@ -49,10 +49,10 @@ __Ostatní klasicisté__:
 
 ## Camus
 ### Cizinec
-__Žánr__:  Filozofický román
-__Forma__: Próza
-__Druh__:  Epika
-__Místo__: Pobřeží Francouzského Alžírska
+__Žánr__:  Filozofický román  
+__Forma__: Próza  
+__Druh__:  Epika  
+__Místo__: Pobřeží Francouzského Alžírska  
 __Postavy__:
 * Mersault
 * Marie
@@ -84,10 +84,10 @@ __Ostatní existencialisté__:
 
 ## Kafka
 ### Zámek
-__Žánr__:  Dystopický román / Absurdistická fikce
-__Forma__: Próza
-__Druh__:  Epika
-__Místo__: Vesnice pod zámkem
+__Žánr__:  Dystopický román / Absurdistická fikce  
+__Forma__: Próza  
+__Druh__:  Epika  
+__Místo__: Vesnice pod zámkem  
 __Postavy__:
 * K.
 * Frída
@@ -97,10 +97,10 @@ __Postavy__:
 * číšnice Pepina
 
 ### Proměna
-__Žánr__:  Alegorická novela
-__Forma__: Próza
-__Druh__:  Epika
-__Místo__: Samsův dům, především jeho pokoj
+__Žánr__:  Alegorická novela  
+__Forma__: Próza  
+__Druh__:  Epika  
+__Místo__: Samsův dům, především jeho pokoj  
 __Postavy__:
 * Řehoř
 * Markétka
@@ -140,10 +140,10 @@ __Ostaní světoví meziváleční spisovatelé__:
 
 ## K. Čapek
 ### Bílá nemoc
-__Žánr__:  Alegorická tragédie
-__Forma__: Próza
-__Druh__:  Drama
-__Místo__: _Nějaké_ město, většina děje se děje kolem Galénovy ordinace
+__Žánr__:  Alegorická tragédie  
+__Forma__: Próza  
+__Druh__:  Drama  
+__Místo__: _Nějaké_ město, většina děje se děje kolem Galénovy ordinace  
 __Postavy__:
 * Dr. Galén
 * Maršál
@@ -151,10 +151,10 @@ __Postavy__:
 * Dvorní rada Sigelius
 
 ### Matka
-__Žánr__:  Protiválečná tragédie
-__Forma__: Próza
-__Druh__:  Drama
-__Místo__: _Nějaké_ město, většina děje se odehrává uvnitř jedné místnosti
+__Žánr__:  Protiválečná tragédie  
+__Forma__: Próza  
+__Druh__:  Drama  
+__Místo__: _Nějaké_ město, většina děje se odehrává uvnitř jedné místnosti  
 __Postavy__:
 * matka Dolores
 * otec Richard
@@ -187,10 +187,10 @@ __Ostatní čeští meziváleční spisovatelé__:
 
 ## Hemingway
 ### Stařec a moře
-__Žánr__:  Fikční novela
-__Forma__: Próza
-__Druh__:  Epika
-__Místo__: Karibské moře, pobřeží Kuby
+__Žánr__:  Fikční novela  
+__Forma__: Próza  
+__Druh__:  Epika  
+__Místo__: Karibské moře, pobřeží Kuby  
 __Postavy__:
 * stařec (Santiago)
 * chlapec
@@ -231,10 +231,10 @@ __Ostaní světoví meziváleční spisovatelé (každého lze považovat za ztr
 
 ## Borovský
 ### Král Lávra
-__Žánr__:  Pověstná báseň (inspirace z pověsti o králi Markovi z Cornwallu a o králi Midasovi z Frýgie)
-__Forma__: Poezie
-__Druh__:  Epika
-__Místo__: Irské království
+__Žánr__:  Pověstná báseň (inspirace z pověsti o králi Markovi z Cornwallu a o králi Midasovi z Frýgie)  
+__Forma__: Poezie  
+__Druh__:  Epika  
+__Místo__: Irské království  
 __Postavy__:
 * král Lávra
 * Kukulín
@@ -261,10 +261,10 @@ __Ostatní spisovatelé Národního obrozeni__:
 
 ## de Saint-Exupéry
 ### Malý princ
-__Žánr__:  Filozofická pohádka
-__Forma__: Próza
-__Druh__:  Epika
-__Místo__: Africká poušť (implicitně Sahara), různé planetky
+__Žánr__:  Filozofická pohádka  
+__Forma__: Próza  
+__Druh__:  Epika  
+__Místo__: Africká poušť (implicitně Sahara), různé planetky  
 __Postavy__:
 * Malý princ
 * Letec
@@ -297,10 +297,10 @@ __Ostaní světoví meziváleční spisovatelé__:
 
 ## Ginsberg
 ### Kvílení
-__Žánr__:  Kritické pásmo / Reflektivní báseň
-__Forma__: Poezie (Prozaická báseň)
-__Druh__:  Lyrika
-__Místo__: Spojené státy americké
+__Žánr__:  Kritické pásmo / Reflektivní báseň  
+__Forma__: Poezie (Prozaická báseň)  
+__Druh__:  Lyrika  
+__Místo__: Spojené státy americké  
 __Postavy__:
 * Obyvatelé USA
 * USA samotná (_není_ zosobněna)
