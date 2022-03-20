@@ -37,10 +37,10 @@ __Postavy__:
 
 ### Tartuffe
 __Žánr__:  Poetická komedie  
-__Forma__: Poezie
+__Forma__: Poezie  
 __Druh__:  Drama  
-__Místo__: Orgonův dům
-__Postavy__:
+__Místo__: Orgonův dům  
+__Postavy__:  
 * Orgon
 * Mariana a Damis (Orgonovy děti)
 * Valér (Marianin snoubenec)
