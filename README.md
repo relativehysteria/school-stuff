@@ -1,5 +1,6 @@
 - [Moliére:](#moliére)
   * [Lakomec](#lakomec)
+  * [Tartuffe](#tartuffe)
 - [Camus](#camus)
   * [Cizinec](#cizinec)
 - [Kafka](#kafka)
@@ -17,6 +18,8 @@
 - [Ginsberg](#ginsberg)
   * [Kvílení](#kvílení)
 
+<!----------------------------------------------------------------------------->
+
 ## Moliére:
 ### Lakomec
 __Žánr__:  Prozaická komedie  
@@ -24,13 +27,27 @@ __Forma__: Próza
 __Druh__:  Drama  
 __Místo__: Paříž, u Harpagona doma  
 __Postavy__:
-* Harpagon
-* Kleant
-* Eliška
-* Valér
-* Mariana
+* Harpagon (Zamilovaný do Mariany)
+* Kleant (Harpagonův syn, zamilován do Mariany)
+* Eliška (Harpagonova dcera, zamilována do Valéra)
+* Valér (Anselmův syn)
+* Mariana (Anselmova dcera)
 * Anselm
 * Frosina
+
+### Tartuffe
+__Žánr__:  Poetická komedie  
+__Forma__: Poezie
+__Druh__:  Drama  
+__Místo__: Orgonův dům
+__Postavy__:
+* Orgon
+* Mariana a Damis (Orgonovy děti)
+* Valér (Marianin snoubenec)
+* Elmíra (Orgonova žena)
+* Kléant (Orgonův švagr)
+* Paní Pernellová (Orgonova matka)
+* Dorina (Marianina komorná)
 
 #### Literární kontext (francouzský klasicismus, 17. stol.)
 __Znaky klasicismu__:
