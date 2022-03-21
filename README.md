@@ -69,6 +69,19 @@ __Ostatní klasicisté__:
 
 <!----------------------------------------------------------------------------->
 
+## de Maupassant
+### Kulička
+__Žánr__:  
+__Forma__:  
+__Druh__:  
+__Místo__:  
+__Postavy__:  
+
+#### Literární kontext (Naturalismus, konec 19. stol)
+* dodělám
+
+<!----------------------------------------------------------------------------->
+
 ## Gellner
 ### Po nás ať příjde potopa!
 __Žánr__:  Poetická sbírka  
