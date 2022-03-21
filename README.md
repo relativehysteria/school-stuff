@@ -71,11 +71,11 @@ __Ostatní klasicisté__:
 
 ## Gellner
 ### Po nás ať příjde potopa!
-__Žánr__:  Poetická sbírka
-__Forma__: Poezie
-__Druh__:  Lyrika
-__Místo__: Nezmíněno
-__Postavy__:
+__Žánr__:  Poetická sbírka  
+__Forma__: Poezie  
+__Druh__:  Lyrika  
+__Místo__: Nezmíněno  
+__Postavy__:  
 * Gellner samotný (píše ze svého pohledu)
 * Jeho lásky a přátelé (v některých básních)
 
@@ -86,11 +86,11 @@ __Postavy__:
 
 ## Apollinaire
 ### Kaligramy
-__Žánr__:  Poetická sbírka s kaligramy
-__Forma__: Poezie
-__Druh__:  Lyrika
-__Místo__: Nezmíněno
-__Postavy__:
+__Žánr__:  Poetická sbírka s kaligramy  
+__Forma__: Poezie  
+__Druh__:  Lyrika  
+__Místo__: Nezmíněno  
+__Postavy__:  
 * Apollinaire
 * Jeho lásky a přátelé (v některých básních)
 * Obrazce (kaligramy)
@@ -294,11 +294,11 @@ __Postavy__:
 * Kukulínova matka
 
 ### Tyrolské elegie
-__Žánr__:  Satirická báseň
+__Žánr__:  Satirická báseň  
 __Forma__: Poezie  
 __Druh__:  Epika  
-__Místo__: Brixen
-__Postavy__:
+__Místo__: Brixen  
+__Postavy__:  
 * Borovkský
 * Měsíc
 
