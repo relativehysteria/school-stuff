@@ -69,6 +69,37 @@ __Ostatní klasicisté__:
 
 <!----------------------------------------------------------------------------->
 
+## Gellner
+### Po nás ať příjde potopa!
+__Žánr__:  Poetická sbírka
+__Forma__: Poezie
+__Druh__:  Lyrika
+__Místo__: Nezmíněno
+__Postavy__:
+* Gellner samotný (píše ze svého pohledu)
+* Jeho lásky a přátelé (v některých básních)
+
+#### Literární kontext (Anarchističtí buřiči, Česká moderna, začátek 20. stol)
+* dodělám
+
+<!----------------------------------------------------------------------------->
+
+## Apollinaire
+### Kaligramy
+__Žánr__:  Poetická sbírka s kaligramy
+__Forma__: Poezie
+__Druh__:  Lyrika
+__Místo__: Nezmíněno
+__Postavy__:
+* Apollinaire
+* Jeho lásky a přátelé (v některých básních)
+* Obrazce (kaligramy)
+
+#### Literární kontext (Avantgarda, Kubismus, začátek 20. stol)
+* dodělám
+
+<!----------------------------------------------------------------------------->
+
 ## Camus
 ### Cizinec
 __Žánr__:  Filozofický román  
@@ -261,6 +292,15 @@ __Postavy__:
 * král Lávra
 * Kukulín
 * Kukulínova matka
+
+### Tyrolské elegie
+__Žánr__:  Satirická báseň
+__Forma__: Poezie  
+__Druh__:  Epika  
+__Místo__: Brixen
+__Postavy__:
+* Borovkský
+* Měsíc
 
 #### Literární kontext [český romantismus a realismus; Národní obrození (18 - 19. stol.)]
 __Znaky Národního obrození__:
