@@ -1,6 +1,8 @@
 - [Moliére:](#moliére)
   * [Lakomec](#lakomec)
   * [Tartuffe](#tartuffe)
+- [de Maupassant](#de-maupassant)
+  * [Kulička](#kulička)
 - [Gellner](#gellner)
   * [Po nás ať příjde potopa!](#po-nás-ať-příjde-potopa)
 - [Apollinaire](#apollinaire)
