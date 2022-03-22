@@ -140,7 +140,7 @@ __Ostatní anarchističtí buřiči__:
 
 ## Apollinaire
 ### Kaligramy
-__Žánr__:  Poetická sbírka s kaligramy  
+__Žánr__:  Sbírka vizuální (a konkrétní) poezie
 __Forma__: Poezie  
 __Druh__:  Lyrika  
 __Místo__: Nezmíněno  
@@ -149,12 +149,23 @@ __Postavy__:
 * Jeho lásky a přátelé (v některých básních)
 * Obrazce (kaligramy)
 
-#### Literární kontext (Avantgarda, Kubismus, začátek 20. stol)
+#### Literární kontext (Avantgarda, Kubismus začátek 20. stol)
 __Znaky avantgardy__:
+* Extrémní metafora (objevuje se téměř všude)
+* Nelogická a nesmyslná
+* Freudovská a psychologická
+* Novost
 
 __Ostatní avantgardisté__:
+* Salmon (Vokalizace - kubismus)
+* Kafka (Proměna - surrealismus)
+* Marinetti (Manifest futurismu - futurismus)
 
 #### Další díla
+* Alkoholy (Sbírka básní)
+* Bestiář (Sbírka básní)
+* Co teď? (Nevydaná novela)
+* Sedící žena? (Novela)
 
 <!----------------------------------------------------------------------------->
 
@@ -354,10 +365,12 @@ __Postavy__:
 ### Tyrolské elegie
 __Žánr__:  Satirická báseň  
 __Forma__: Poezie  
-__Druh__:  Epika  
-__Místo__: Brixen  
+__Druh__:  Lyrika  
+__Místo__: Brixen v Tyrolsku  
 __Postavy__:  
-* Borovkský
+* Borovský
+* Policie a žandarmové
+* Komisař Dedera
 * Měsíc
 
 #### Literární kontext [český romantismus a realismus; Národní obrození (18 - 19. stol.)]
@@ -373,7 +386,6 @@ __Ostatní spisovatelé Národního obrozeni__:
 * Tyl (Strakonický dudák)
 
 #### Další díla
-* Tyrolské elegie (Satirická báseň)
 * Křest svatého Vladimíra (Satirická báseň)
 * Epigramy (Kolekce epigramů - krátkých satirických básní)
 
