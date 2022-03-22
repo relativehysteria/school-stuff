@@ -76,7 +76,7 @@ __Ostatní klasicisté__:
 __Žánr__: Satirická povídka  
 __Forma__: Próza  
 __Druh__:  Epika  
-__Místo__: Normandie (mezi Rouenem a Le Havrem), dostavník, hotel
+__Místo__: Normandie (mezi Rouenem a Le Havrem), dostavník, hotel  
 __Postavy__:  
 * Kulička (Alžběta Roussetová)
 * Pan a paní Loiseauovi (kupecký pár)
@@ -109,16 +109,32 @@ __Ostatní naturalisté__:
 
 ## Gellner
 ### Po nás ať příjde potopa!
-__Žánr__:  Poetická sbírka  
+__Žánr__:  Sbírka básní
 __Forma__: Poezie  
 __Druh__:  Lyrika  
 __Místo__: Nezmíněno  
 __Postavy__:  
 * Gellner samotný (píše ze svého pohledu)
-* Jeho lásky a přátelé (v některých básních)
 
 #### Literární kontext (Anarchističtí buřiči, Česká moderna, začátek 20. stol)
-* dodělám
+__Znaky anarchistických buřičů__:
+* Anarchismus
+* Antimilitarismus
+* Vitalismus (oslava života a přírody)
+* Obyčejnost, vulgarismy, slang a obecná čeština
+* Pravidelný rytmus, rým a písňovost
+
+__Ostatní anarchističtí buřiči__:
+* Dyk (Krysař, Devátá vlna)
+* Šrámek (Splav, Stříbrný vítr)
+* Toman (Měsíce)
+* Kostka Neumann (Kniha lesů, vod a strání)
+* Bezruč (Slezské písně)
+
+#### Další díla
+* Radosti života (Sbírka básní)
+* Nové verše (Sbírka básní)
+* Don Juan (Poetický román)
 
 <!----------------------------------------------------------------------------->
 
@@ -134,7 +150,11 @@ __Postavy__:
 * Obrazce (kaligramy)
 
 #### Literární kontext (Avantgarda, Kubismus, začátek 20. stol)
-* dodělám
+__Znaky avantgardy__:
+
+__Ostatní avantgardisté__:
+
+#### Další díla
 
 <!----------------------------------------------------------------------------->
 
