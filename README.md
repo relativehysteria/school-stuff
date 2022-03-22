@@ -73,14 +73,37 @@ __Ostatní klasicisté__:
 
 ## de Maupassant
 ### Kulička
-__Žánr__:  
-__Forma__:  
-__Druh__:  
-__Místo__:  
+__Žánr__: Satirická povídka  
+__Forma__: Próza  
+__Druh__:  Epika  
+__Místo__: Normandie (mezi Rouenem a Le Havrem), dostavník, hotel
 __Postavy__:  
+* Kulička (Alžběta Roussetová)
+* Pan a paní Loiseauovi (kupecký pár)
+* Pan a paní Carré-Lamadonovi (měšťanský pár)
+* Hrabě Hubert de Bréville a jeho žena (šlechtický pár)
+* Cornudet (demokrat)
+* Dvě jeptišky
 
 #### Literární kontext (Naturalismus, konec 19. stol)
-* dodělám
+__Znaky naturalismu__:
+* Velmi podobný realismu (realismus vychází z naturalismu)
+* Přesný, vědecký a objektivní
+* Realistický, nezkreslený
+* Často pesimistický
+* Hlavní postavy mívají psychické či fyzické narušení
+
+__Ostatní naturalisté__:
+* Zola (Tereza Raquinová, Nana)
+* Blasco Ibáñez (Májovník)
+* Jack London (Bílý tesák, Láska života)
+* _Faulkner_ (Jeho povídka _Růže pro Emily_ je považována za naturalistickou)
+
+#### Další díla
+* Na vodě (Deník)
+* Miláček (Román)
+* Sebevraždy (Povídka)
+* Vendetta (Povídka)
 
 <!----------------------------------------------------------------------------->
 
