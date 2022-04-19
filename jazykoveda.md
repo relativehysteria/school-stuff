@@ -73,7 +73,7 @@ __Jakým způsobem je obohacována slovní zásoba__: Skládáním dvou slov, zk
 
 __Vyjmenujte typy odvozování__
 * motivovaná - můžeme zjistit, z kterého slova byla utvořena (zahradnik)
-* nemotivovana - nemotivovaná - nemůžeme zjistit, z kterého slova byla utvořena (voda)
+* nemotivovaná - nemůžeme zjistit, z kterého slova byla utvořena (voda)
 
 __Jaký je rozdíl mezi složeninou vlastní a složeninou nevlastní__:
 * Nevlastní složeniny lze rozdělit na samostatná slova beze změny jejich podoby a zpravidla i beze změny významu (chvályhodný)
