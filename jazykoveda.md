@@ -67,7 +67,7 @@ __Vysvětlete rozdíl mezi předložkami původními a nepůvodními__: Původn�
 
 __Vysvětlete rozdíl mezi spojkami podřadicími a souřadicími__: "Obecně lze říci, že spojky souřadicí uvozují věty hlavní, spojky podřadicí (+ vztažná zájmena a příslovce) uvozují věty vedlejší."  
 
-[__Co jsou to příslovečné spřežky__](Co jsou to příslovečné spřežky) (např. zpravidla - z pravidla, obden - ob den)  
+[__Co jsou to příslovečné spřežky__](https://cs.wikipedia.org/wiki/P%C5%99%C3%ADslove%C4%8Dn%C3%A1_sp%C5%99e%C5%BEka) (např. zpravidla - z pravidla, obden - ob den)  
 
 __Jakým způsobem je obohacována slovní zásoba__: Skládáním dvou slov, zkracováním slov, překladem a přejetím z cizího jazyka  
 
