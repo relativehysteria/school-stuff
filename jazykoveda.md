@@ -22,7 +22,7 @@ __Charakterizujte odborný styl__:
 * Cílem tohoto stylu je poučit adresáta, tzn. podat mu přesné a jasné informace
 * ....
 
-__Vyjmenujte objektivní slohotvorné činitele__  
+[__Vyjmenujte objektivní slohotvorné činitele__](https://www.gymmost.cz/sites/default/files/docs/studium/cestina/vejrazka/funkcni_styly.pdf)  
 
 __Vyjmenujte šest hledisek, podle kterých můžeme rozebírat slovní zásobu__  
 
