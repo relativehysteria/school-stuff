@@ -22,6 +22,8 @@
   * [Tyrolské elegie](#tyrolské-elegie)
 - [de Saint-Exupéry](#de-saint-exupéry)
   * [Malý princ](#malý-princ)
+- [Gabriel García Márquez](#gabriel-garcía-márquez)
+  * [Kronika ohlášené smrti](#kronika-ohlášené-smrti)
 - [Ginsberg](#ginsberg)
   * [Kvílení](#kvílení)
 
@@ -109,7 +111,7 @@ __Ostatní naturalisté__:
 
 ## Gellner
 ### Po nás ať příjde potopa!
-__Žánr__:  Sbírka básní
+__Žánr__:  Sbírka básní  
 __Forma__: Poezie  
 __Druh__:  Lyrika  
 __Místo__: Nezmíněno  
@@ -140,7 +142,7 @@ __Ostatní anarchističtí buřiči__:
 
 ## Apollinaire
 ### Kaligramy
-__Žánr__:  Sbírka vizuální (a konkrétní) poezie
+__Žánr__:  Sbírka vizuální (a konkrétní) poezie  
 __Forma__: Poezie  
 __Druh__:  Lyrika  
 __Místo__: Nezmíněno  
@@ -332,7 +334,7 @@ __Znaky světové meziválečné literatury__:
 * Popularizován volný verš (spousta spisovatelů, především ztracená generace, si oblíbila Whitmana)
 
 __Ostaní světoví meziváleční spisovatelé (každého lze považovat za ztracenou generaci)__:
-* Faulkner (Absolone, Absolone!)
+* Faulkner (Absolome, Absolome!)
 * Remarque (Na západní frontě klid)
 * Fitzgerald (Velký Gatsby)
 * Steinbeck (O myších a lidech)
@@ -424,6 +426,36 @@ __Ostaní světoví meziváleční spisovatelé__:
 * Noční let (Životopisný román)
 * Kurýr na jih / Jižní pošta (Životopisný román)
 * Citadela / Moudrost písků (Životopisný esej)
+
+<!----------------------------------------------------------------------------->
+
+## Gabriel García Márquez
+### Kronika ohlášené smrti
+__Žánr__:  Surreální novela  
+__Forma__: Próza  
+__Druh__:  Epika  
+__Místo__: Městečko (pravděpodobně v Kolumbii)  
+__Postavy__:
+* Santiago Nasar
+* Angela Vicario (nevěsta)
+* Bratři Vicariovi
+* Bayardo San Roman (ženich)
+* Purisima del Carmen (matka)
+
+#### Literární kontext [magický realismus (2. polovina 20. stol)]
+__Znaky magického realismu__
+* Magie a fantazie uvnitř reálného světa
+* Neodtrhává se od reality (narozdíl od fantasy)
+
+__Ostaní magičtí realisté__:
+* Isabel Allende (Dům duší)
+* Neil Gaiman (Sandman / Vertigo)
+* Haruki Murakami (Kafka na břehu, 1Q84)
+
+#### Další díla
+* Sto let samoty
+* Láska za časů cholery
+* Patriarchův podzim
 
 <!----------------------------------------------------------------------------->
 
